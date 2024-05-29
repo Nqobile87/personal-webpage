@@ -1,0 +1,147 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Nqobile - Educational Psychologist</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            line-height: 1.6;
+            color: #333;
+            background-color: #f4f4f4;
+            margin: 0;
+            padding: 0;
+        }
+        .container {
+            width: 80%;
+            margin: auto;
+            overflow: hidden;
+            padding: 20px;
+            background-color: #fff;
+        }
+        header {
+            background: #35424a;
+            color: #fff;
+            padding-top: 30px;
+            min-height: 70px;
+            border-bottom: #e8491d 3px solid;
+        }
+        header h1 {
+            text-align: center;
+            text-transform: uppercase;
+            margin: 0;
+        }
+        nav {
+            display: flex;
+            justify-content: center;
+            padding: 10px 0;
+            background: #e8491d;
+        }
+        nav a {
+            color: #fff;
+            text-decoration: none;
+            padding: 5px 20px;
+        }
+        nav a:hover {
+            background: #35424a;
+            color: #fff;
+        }
+        section {
+            margin-bottom: 20px;
+        }
+        h2 {
+            color: #35424a;
+        }
+        .content {
+            margin: 20px 0;
+        }
+        .footer {
+            background: #35424a;
+            color: #fff;
+            text-align: center;
+            padding: 10px 0;
+            margin-top: 20px;
+        }
+    </style>
+</head>
+<body>
+    <header>
+        <h1>Nqobile - Educational Psychologist</h1>
+    </header>
+    <nav>
+        <a href="#practice">My Practice</a>
+        <a href="#services">Services</a>
+        <a href="#work">Previous Work</a>
+        <a href="#approach">My Approach</a>
+        <a href="#interests">Special Interests</a>
+        <a href="#associations">Associations</a>
+    </nav>
+    <div class="container">
+        <section id="practice">
+            <h2>My Practice</h2>
+            <div class="content">
+                <p>My passion is working with children and adolescents who are neurodivergent. This means that I am highly interested in contributing to the lives of children and families who struggle with learning problems, executive functioning skills, motivation challenges, concentration and attention problems, social skills, working memory problems, and behavior problems among other struggles.</p>
+            </div>
+        </section>
+        <section id="services">
+            <h2>Services (English and isiZulu)</h2>
+            <div class="content">
+                <ul>
+                    <li>Play Therapy</li>
+                    <li>Individual Adolescent Therapy</li>
+                    <li>School Readiness Assessments</li>
+                    <li>Psycho-Educational Assessment</li>
+                    <li>Career Counselling and Assessment</li>
+                    <li>Learner Support</li>
+                    <li>Parent and Family Guidance</li>
+                </ul>
+            </div>
+        </section>
+        <section id="work">
+            <h2>My Previous Work Environments</h2>
+            <div class="content">
+                <p>I graduated with a master’s in educational psychology at the University of Zululand. After graduating, I completed my internship at the Johannesburg Centre for Psychological Services and Career Development (PSYCAD). After my training, I worked with learners with special needs at Kenmont School, which allowed me to advance my skills in a multidisciplinary team setting. I furthered my career at the University of Kwa-Zulu Natal as a student counsellor, which allowed me to work with students who also struggle with learning challenges.</p>
+                <p>In my work at the University of KwaZulu Natal, I provided clinical supervision for Educational Psychology Interns who were placed in the University. This allowed me to further engage with schools and form relationships with all stakeholders involved in providing the best training practice for the intern Educational Psychologists under my care. I believe in working collaboratively with all systems involved in providing the best service for the client.</p>
+            </div>
+        </section>
+        <section id="approach">
+            <h2>My Approach</h2>
+            <div class="content">
+                <p>My approach is predominantly Humanistic, compassionate, and solution-focused. My style is more pragmatic as I believe in providing practical skills for challenges faced by learners.</p>
+                <p>I am also trained in conducting full psycho-educational assessments where barriers to learning can be identified and supported within the various systems – individual, family, school, and community. In addition, I have also been trained in career counselling and school-readiness assessments. I understand my clients through the systems approach theory. I believe that a person is a system and comes from a system!</p>
+            </div>
+        </section>
+        <section id="interests">
+            <h2>My Special Interests</h2>
+            <div class="content">
+                <ul>
+                    <li>Attention Deficit Hyperactive Disorder</li>
+                    <li>Psycho-Educational Assessments</li>
+                    <li>Child Development</li>
+                    <li>Anxiety</li>
+                    <li>Attachment</li>
+                    <li>Adjustment Difficulties</li>
+                    <li>Trauma</li>
+                    <li>Separation Anxiety</li>
+                    <li>Bereavement</li>
+                    <li>Behavioral Issues</li>
+                    <li>Socio-emotional Development</li>
+                </ul>
+            </div>
+        </section>
+        <section id="associations">
+            <h2>Associations, Affiliations, and Membership</h2>
+            <div class="content">
+                <ul>
+                    <li>Health Professions Council of South Africa (HPCSA)</li>
+                    <li>Board of Healthcare Funders (BHF)</li>
+                </ul>
+            </div>
+        </section>
+    </div>
+    <footer class="footer">
+        <p>&copy; 2024 Nqobile - Educational Psychologist. All rights reserved.</p>
+    </footer>
+</body>
+</html>
